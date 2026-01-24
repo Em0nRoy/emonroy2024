@@ -1,57 +1,75 @@
-# Hi, I’m Emon Roy 👋
+# Hi there, I'm Emon Roy! 👋
 
-AI-focused Computer Science grad (Toronto) with 3+ years of industry experience and 2+ years of academic research. :contentReference[oaicite:0]{index=0}  
-I build **data automation + analytics** solutions and work on **ML interpretability (Grad-CAM robustness)**. :contentReference[oaicite:1]{index=1}
+### 🧠 M.Sc. in Computer Science (AI Specialization) | Data Scientist & ML Engineer
 
----
+I am a recent Master of Science graduate from **Ontario Tech University**, where I specialized in Artificial Intelligence and Computer Vision under the supervision of Dr. Mehran Ebrahimi. With over 3 years of industry experience in database administration and 2 years of academic research, I bridge the gap between complex deep learning models and actionable business insights.
 
-## 🔭 What I’m focused on
-- **Audit analytics & automation**: exception analysis, computerized testing, repeatable data workflows :contentReference[oaicite:2]{index=2}  
-- **ML research**: transformation-invariance of Grad-CAM under rotation/zoom/shift across CNNs :contentReference[oaicite:3]{index=3}  
-- **Dashboards & reporting**: Power BI/Tableau to support decision-making :contentReference[oaicite:4]{index=4}  
+Currently, I am seeking opportunities as a **Data Analyst, Data Scientist, or Machine Learning Engineer**.
 
 ---
 
-## 🧰 Tech stack
-- **Languages:** Python, SQL, Java, C/C++ :contentReference[oaicite:5]{index=5}  
-- **ML/DL:** PyTorch, TensorFlow, Keras, TorchVision, scikit-learn :contentReference[oaicite:6]{index=6}  
-- **GenAI:** Hugging Face, OpenAI API, fine-tuning (GPT/BERT) :contentReference[oaicite:7]{index=7}  
-- **Data & viz:** Pandas, NumPy, Matplotlib, Plotly + Power BI/Tableau :contentReference[oaicite:8]{index=8}  
-- **MLOps/Dev:** FastAPI, Docker, Kubernetes, Git, CI/CD :contentReference[oaicite:9]{index=9}  
-- **Pipelines/Integration:** Airflow, Azure Data Factory, SSIS :contentReference[oaicite:10]{index=10}  
+## 🛠️ Technical Stack
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, SQL, C/C++, Java |
+| **AI & LLMs** | PyTorch, TensorFlow, Keras, Hugging Face, OpenAI API, Fine-tuning (GPT, BERT) |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly |
+| **Data Viz & BI** | Power BI, Tableau, Microsoft SSIS |
+| **Tools & DevOps** | Git, Docker, Kubernetes, FastAPI, Azure Data Factory, Apache Airflow |
+| **Databases** | Oracle (PL/SQL), MySQL |
 
 ---
 
-## 💼 Experience highlights
-- **Application & Database Admin (IFIC Bank)**  
-  - Delivered an HR e-signature solution → **60% faster** admin approval turnaround :contentReference[oaicite:11]{index=11}  
-  - Reduced recurring data issues **30%**; improved reporting reliability **25%**; cut query runtime **40%** :contentReference[oaicite:12]{index=12}  
-  - Built **10+ Power BI dashboards**, improving operational efficiency **35%** :contentReference[oaicite:13]{index=13}  
+## 🔬 Research & Publications
 
-- **Graduate Research Assistant (Ontario Tech)**  
-  - Studied Grad-CAM robustness + proposed heatmap-averaging ideas for reliability :contentReference[oaicite:14]{index=14}  
+My academic research focuses on Computer Vision (specifically **Grad-CAM**) and Large Language Models (LLMs) for software engineering applications.
 
-- **Graduate Teaching Assistant (Ontario Tech)**  
-  - Led tutorials/labs; improved outcomes with structured checkpoints + hands-on examples :contentReference[oaicite:15]{index=15}  
+* **A Contrastive Learning Approach to Bug Severity Classification with Large Language Model Embeddings**
+    * *Published:* IEEE COMPSAC 2025
+    * *Focus:* LLMs, Software Quality Assurance
 
----
-
-## 📚 Publications
-- **A Contrastive Learning Approach to Bug Severity Classification with Large Language Model Embeddings** (COMPSAC 2025) :contentReference[oaicite:16]{index=16}  
-- **I-Grad-CAM: Transformation Invariant Grad-CAM** (CVIS 2024) :contentReference[oaicite:17]{index=17}  
+* **I-Grad-CAM: Transformation Invariant Grad-CAM**
+    * *Published:* CVIS 2024
+    * *Focus:* Computer Vision, Explainable AI (XAI), CNN Robustness
+    * *Details:* Investigated robustness of Grad-CAM heatmaps under affine transformations and proposed averaging techniques to improve localization consistency.
 
 ---
 
-## 🚀 Featured projects (pin these)
-- **Grad-CAM Invariance Benchmark** — rotations/zoom/shift + quantitative metrics + visualizations  
-  Repo: https://github.com/<your-username>/<repo-1>
-- **RAG / GenAI Retrieval Playground** — chunking, embeddings, evaluation, latency/quality checks  
-  Repo: https://github.com/<your-username>/<repo-2>
-- **Audit Analytics Toolkit** — exception tests, reusable data validation, report outputs  
-  Repo: https://github.com/<your-username>/<repo-3>
+## 💼 Professional Experience
+
+**Graduate Teaching Assistant @ Ontario Tech University**
+* *Sep 2023 – Present*
+* Instructed 50+ students in algorithms and software systems, boosting pass rates through interactive tutorials.
+* Specialized in visual analytics and computerized testing analysis.
+
+**Graduate Research Assistant @ Imaging Lab**
+* *Sep 2023 – Dec 2025*
+* Conducted systematic investigations into CNN architecture robustness and medical imaging localization.
+
+**Application & Database Administrator @ IFIC Bank PLC**
+* *Dec 2020 – Aug 2023*
+* **Automation:** Reduced admin approval time by 60% via a custom E-Signature solution.
+* **Optimization:** Tuned Oracle SQL queries to reduce report runtime by 40%.
+* **Analytics:** Delivered 10+ Power BI dashboards to automate HRIS reporting.
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://linkedin.com/emon-roy :contentReference[oaicite:18]{index=18}  
-- Email: royemon777@gmail.com :contentReference[oaicite:19]{index=19}  
+## 🎓 Education
+
+* **M.Sc. in Computer Science (AI Specialization)**
+    * Ontario Tech University (2025)
+    * *GPA:* 3.92/4.30
+* **B.Sc. in Computer Science and Engineering**
+    * North South University (2020)
+    * *GPA:* 3.67/4.00 (Magna Cum Laude)
+
+---
+
+## 📫 Connect with Me
+
+* 📧 **Email:** [royemon777@gmail.com](mailto:royemon777@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/emon-roy](https://www.linkedin.com/in/emon-roy/)
+* 📍 **Location:** Toronto, Ontario
+
+![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
