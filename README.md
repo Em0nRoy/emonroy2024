@@ -72,4 +72,3 @@ My academic research focuses on Computer Vision (specifically **Grad-CAM**) and 
 * 🔗 **LinkedIn:** [linkedin.com/in/emon-roy](https://www.linkedin.com/in/emon-roy/)
 * 📍 **Location:** Toronto, Ontario
 
-![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
