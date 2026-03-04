@@ -1,6 +1,6 @@
 # Hi there, I'm Emon Roy! 👋
 
-### 🧠 M.Sc. in Computer Science (AI Specialization) | Data Scientist & ML Engineer
+### 🧠 M.Sc. in Computer Science (AI Specialization) 
 
 I am a recent Master of Science graduate from **Ontario Tech University**, where I specialized in Artificial Intelligence and Computer Vision under the supervision of Dr. Mehran Ebrahimi. With over 3 years of industry experience in database administration and 2 years of academic research, I bridge the gap between complex deep learning models and actionable business insights.
 
